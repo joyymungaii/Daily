@@ -95,3 +95,52 @@ header .buttonn button{
     border-radius: 9px;
     margin-top: 10px;
 }
+
+.two{
+    height: 35vh;
+    display: flex;
+    align-items: center;
+    background-color: #EDEDED;
+}
+
+.two h2{
+    font-size: 40px;
+    font-weight: 800;
+    padding-left: 30px;
+}
+
+.two input{
+    height: 60px;
+    width: 400px;
+    margin-left: 200px;
+}
+
+.two button{
+    height: 60px;
+    width: 150px;
+    margin-left: 20px;
+    background: #000;
+    color: #fff;
+    border: none;
+    outline: none;
+    font-size: 16px;
+    text-transform: uppercase;
+}
+
+.three{
+    background-color: #E8E4E4;
+    height: 80vh;
+    display: flex;
+    align-items: center;
+}
+
+.three img{
+    width: 1350px;
+    height: 300px;
+    border-radius: 10px;
+    margin-left: 30px;
+}
+
+.three p{
+    padding-left: 40px;
+}
