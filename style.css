@@ -129,18 +129,60 @@ header .buttonn button{
 
 .three{
     background-color: #E8E4E4;
-    height: 80vh;
+    height: 70vh;
     display: flex;
     align-items: center;
 }
 
 .three img{
-    width: 1350px;
-    height: 300px;
+    width: 650px;
+    height: 350px;
     border-radius: 10px;
     margin-left: 30px;
 }
 
-.three p{
-    padding-left: 40px;
+.description-polar{
+    display: flex;
+    flex-direction: column;
+}
+
+.three .description-polar h2{
+    font-size: 40px;
+    padding-left: 70px;
+}
+
+.three .description-polar p{
+    padding-left: 70px;
+    font-size: 21px;
+    line-height: 40px;
+}
+
+.four{
+    height: 70vh;
+    background-color: #B9BDCA;
+    display: flex;
+    align-items: center;
+}
+
+.four img{
+    width: 550px;
+    height: 350px;
+    border-radius: 10px;
+    margin-left: 80px;
+}
+
+.description-spirit{
+    display: flex;
+    flex-direction: column;
+}
+
+.description-spirit h2{
+    font-size: 40px;
+    padding-left: 30px;
+}
+
+.four .description-spirit p{
+    padding-left: 30px;
+    font-size: 21px;
+    line-height: 40px;
 }
